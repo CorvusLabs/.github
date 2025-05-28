@@ -32,7 +32,7 @@ Somos especialistas em demonstrar a realidade que sua *"infraestrutura blindada"
 root@corvus:~# whoami
 > Ex-devs de ROM que viraram especialistas em quebrar sistemas
 > 9+ anos de experiência em fazer coisas que "não deveriam ser possíveis"
-> Responsáveis por descobrir que "segurança através da obscuridade" é uma piada
+> Responsáveis por descobrir que "segurança deliberada" é uma piada
 ```
 
 ---
@@ -41,11 +41,11 @@ root@corvus:~# whoami
 
 | Serviço | Descrição | Status |
 |---------|-----------|--------|
-| 🎯 **Red Team Operations** | Simulações completas de APT. Porque testar contra script kiddies é para amadores. | `[OPERACIONAL]` |
-| 🛡️ **Penetration Testing** | Testes que vão além do Nessus. Quebramos sistemas como quebrávamos bootloaders. | `[OPERACIONAL]` |
-| 💻 **Custom Exploit** | Desenvolvemos exploits sob medida. Cada vulnerabilidade é única, assim como nossa solução. | `[OPERACIONAL]` |
+| 🎯 **Red Team ** | Simulações completas de APT; Porque testar contra script kiddies é para amadores. | `[OPERACIONAL]` |
+| 🛡️ **Penetration Testing** | Testes que vão além do Nessus; Quebramos sistemas como quebrávamos bootloaders. | `[OPERACIONAL]` |
+| 💻 **Custom Exploit** | Desenvolvemos exploits sob medida; Cada vulnerabilidade é única, assim como nossa solução. | `[OPERACIONAL]` |
 | 🔧 **Sec Fortify** | Fortificamos sistemas com precisão cirúrgica e sem piedade. | `[OPERACIONAL]` |
-| 👥 **Security Training** | Do básico ao "isso deveria ser ilegal". Preparamos gladiadores digitais. | `[OPERACIONAL]` |
+| 👥 **Security Training** | Do básico ao "isso deveria ser ilegal".  | `[OPERACIONAL]` |
 | ⚡ **Incident Response** | Quando o caos já está instalado, somos os que limpam a bagunça. Com estilo. | `[OPERACIONAL]` |
 
 ---
