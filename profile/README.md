@@ -93,7 +93,7 @@ root@corvus:~# cat contact.txt
 
 ---
 
-**© 2025 Corvus Labs | Nenhum direito reservado | Faça o que quiser, mas saiba o que está fazendo**
+**© 2025 Corvus Labs | Nenhum direito reservado | Faça o que quiser, mas saiba o risco que está correndo**
 
 ```
 Status: [OPERACIONAL] | Last Update: 2025-05-XX | Version: 2.0.1337
