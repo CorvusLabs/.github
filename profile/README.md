@@ -41,7 +41,7 @@ root@corvus:~# whoami
 
 | Serviço | Descrição | Status |
 |---------|-----------|--------|
-| 🎯 **Red Team ** | Simulações completas de APT; Porque testar contra script kiddies é para amadores. | `[OPERACIONAL]` |
+| 🎯 **Red Team** | Simulações completas de APT; Porque testar contra script kiddies é para amadores. | `[OPERACIONAL]` |
 | 🛡️ **Penetration Testing** | Testes que vão além do Nessus; Quebramos sistemas como quebrávamos bootloaders. | `[OPERACIONAL]` |
 | 💻 **Custom Exploit** | Desenvolvemos exploits sob medida; Cada vulnerabilidade é única, assim como nossa solução. | `[OPERACIONAL]` |
 | 🔧 **Sec Fortify** | Fortificamos sistemas com precisão cirúrgica e sem piedade. | `[OPERACIONAL]` |
