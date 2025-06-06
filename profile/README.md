@@ -12,8 +12,8 @@
 # 🐦‍⬛ **CORVUS LABS**
 ### *Red Team • Offensive Security • Custom Exploits*
 
-[![Website](https://img.shields.io/badge/Website-corvuslabs.io-00ff41?style=for-the-badge&logo=firefox&logoColor=black)](https://corvuslabs.io)
-[![Email](https://img.shields.io/badge/Contact-corvuslabs.io-ff0040?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@corvuslabs.io)
+[![Website](https://img.shields.io/badge/Website-corvuslabs.cloud-00ff41?style=for-the-badge&logo=firefox&logoColor=black)](https://corvuslabs.cloud)
+[![Email](https://img.shields.io/badge/Contact-corvuslabs.cloud-ff0040?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@corvuslabs.cloud)
 [![Telegram](https://img.shields.io/badge/Telegram-@corvuslabs-00ffff?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/corvuslabs)
 
 </div>
